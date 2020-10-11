@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="java.io.FileReader"/>
+    <fullyQualifiedTypeName name="java.io.BufferedReader"/>
+    <fullyQualifiedTypeName name="java.io.IOException"/>
+    <fullyQualifiedTypeName name="java.util.Arrays"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="entidades.Diretor"/>
+    <fullyQualifiedTypeName name="entidades.Pessoa"/>
+    <fullyQualifiedTypeName name="entidades.AlunoEnsinoMedio"/>
+    <fullyQualifiedTypeName name="java.util.Queue"/>
+    <fullyQualifiedTypeName name="java.util.LinkedList"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.util.Stack"/>
+    <fullyQualifiedTypeName name="java.util.Collections"/>
+    <fullyQualifiedTypeName name="entidades.Carro"/>
+    <fullyQualifiedTypeName name="entidades.Caminhao"/>
+    <fullyQualifiedTypeName name="entidades.MeioLocomocao"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
+    <fullyQualifiedTypeName name="controle.ControleNotas"/>
+    <fullyQualifiedTypeName name="entidades.Professor"/>
+    <fullyQualifiedTypeName name="entidades.Materia"/>
+    <fullyQualifiedTypeName name="entidades.Aluno"/>
+    <fullyQualifiedTypeName name="interfaces.ControlesBasicos"/>
+    <fullyQualifiedTypeName name="entidades.Nota"/>
+    <fullyQualifiedTypeName name="java.util.ArrayList"/>
+</qualifiedTypeNameHistroy>

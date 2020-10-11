@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;Contadores.java&apos; to &apos;contadores/src/contadores&apos;&#x0D;&#x0A;- Original project: &apos;contadores&apos;&#x0D;&#x0A;- Destination element: &apos;contadores/src/contadores&apos;&#x0D;&#x0A;- Original element: &apos;contadores.Contadores.java&apos;" description="Copy compilation unit" destination="/src&lt;contadores" element1="/src&lt;contadores{Contadores.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1595945473450" units="1" version="1.0"/>
+</session>
